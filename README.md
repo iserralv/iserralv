@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iserralv
-- 👀 I’m interested in AI, MLOPS and NLP
+- 👋 Hi, I’m @israel_S_C
+- 👀 I’m interested in AI, ML and NLP
 - 🌱 I’m currently learning MSc in Computer science focusing in Big Data
 - 💞️ I’m looking to collaborate on AI projects and as a Python developer
 - 📫 How to reach me @LinkedIn
